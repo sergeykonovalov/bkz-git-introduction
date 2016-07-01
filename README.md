@@ -5,6 +5,6 @@ Repository to train QA team (basic sync and commits).
 
 ## We added headers
 
-###
+### We are happy to use GIT.
 
-We are happy to use GIT.
+> Yes we are.
