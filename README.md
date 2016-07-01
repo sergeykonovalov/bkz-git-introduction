@@ -8,3 +8,5 @@ Repository to train QA team (basic sync and commits).
 ### We are happy to use GIT.
 
 > Yes we are.
+
+Hello to u
