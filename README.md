@@ -3,10 +3,11 @@ Repository to train QA team (basic sync and commits).
 
 # Testing New Commit
 
-## We added headers
+## Welcome to GIT
 
 ### We are happy to use GIT.
 
-> Yes we are.
+> Yes we are. 
 
-Hello to u
+
+
