@@ -12,3 +12,4 @@ Repository to train QA team (basic sync and commits).
 
 # Hello Katya!
 # Hi
+#New string
